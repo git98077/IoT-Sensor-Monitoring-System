@@ -212,3 +212,6 @@ ESP32 發送的 MQTT 訊息格式：
 - [MQTT 協定說明](https://mqtt.org/)
 - [Arduino 官方教學](https://www.arduino.cc/en/Tutorial/HomePage)
 - [PHP 官方文件](https://www.php.net/docs.php)
+- 
+### 實體照片
+- **Google雲端**:https://docs.google.com/document/d/1eLEjyF4uRs32MKpp7_eZoKOy8plpqR21/edit?usp=sharing&ouid=116740084328701321030&rtpof=true&sd=true
